@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Easy to get along with*
+__Skincare junkie__
+*Wine connoisseur in the making*
+__Kind__
+*Compassionate*
