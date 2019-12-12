@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+- Learning French & using it
+- Champagne
+- Dogs
+- Yoga
